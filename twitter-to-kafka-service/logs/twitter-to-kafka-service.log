@@ -1,0 +1,15 @@
+2023-03-05 23:53:51 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 15.0.1 on Anikets-MacBook-Air.local with PID 18848 (/Users/aniketpandey/Downloads/microservices-demo/twitter-to-kafka-service/target/classes started by aniketpandey in /Users/aniketpandey/Downloads/microservices-demo)
+2023-03-05 23:53:51 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-05 23:53:52 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.591 seconds (JVM running for 7.844)
+2023-03-05 23:53:52 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Application Started with logger
+2023-03-05 23:56:03 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 15.0.1 on Anikets-MacBook-Air.local with PID 19005 (/Users/aniketpandey/Downloads/microservices-demo/twitter-to-kafka-service/target/classes started by aniketpandey in /Users/aniketpandey/Downloads/microservices-demo)
+2023-03-05 23:56:03 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-05 23:56:04 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 6.862 seconds (JVM running for 8.135)
+2023-03-05 23:56:04 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Application Started with logger
+2023-03-05 23:56:04 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Kafka, Spring, Microservices, Elasticsearch]
+2023-03-05 23:57:42 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 15.0.1 on Anikets-MacBook-Air.local with PID 19123 (/Users/aniketpandey/Downloads/microservices-demo/twitter-to-kafka-service/target/classes started by aniketpandey in /Users/aniketpandey/Downloads/microservices-demo)
+2023-03-05 23:57:42 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-05 23:57:43 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 6.767 seconds (JVM running for 8.036)
+2023-03-05 23:57:43 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Application Started with logger
+2023-03-05 23:57:43 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Kafka, Spring, Microservices, Elasticsearch]
+2023-03-05 23:57:43 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Welcome to KTwitter to Kafka Service
