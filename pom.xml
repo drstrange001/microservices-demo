@@ -24,6 +24,8 @@
 		<maven-compiler-plugin.version>3.11.0</maven-compiler-plugin.version>
 		<lombok.version>1.18.24</lombok.version>
 		<twitter4j.version>4.0.7</twitter4j.version>
+		<http-client.version>4.5.13</http-client.version>
+		<json.version>20220320</json.version>
 	</properties>
 
 	<dependencyManagement>
@@ -53,7 +55,16 @@
 				<artifactId>twitter4j-stream</artifactId>
 				<version>${twitter4j.version}</version>
 			</dependency>
-
+			<dependency>
+				<groupId>org.apache.httpcomponents</groupId>
+				<artifactId>httpclient</artifactId>
+				<version>${http-client.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.json</groupId>
+				<artifactId>json</artifactId>
+				<version>${json.version}</version>
+			</dependency>
 		</dependencies>
 	</dependencyManagement>
 
